@@ -10,7 +10,7 @@ To address these challenges, customer usage and billing data was analyzed using 
 
 - **Upselling:** encouraging customers to move from Basic to Premium plans, unlocking higher revenue potential.
 
-  **Cross-selling:** promoting complementary services such as multiple lines and tech support, boosting overall ARPU and engagement.
+- **Cross-selling:** promoting complementary services such as multiple lines and tech support, boosting overall ARPU and engagement.
 
 This structured approach enabled NexaSat to focus resources where they matter most, driving revenue growth while improving customer loyalty.
 
@@ -25,4 +25,10 @@ This structured approach enabled NexaSat to focus resources where they matter mo
 - **Plan-level performance and pricing opportunities:** Compared prepaid vs postpaid and basic vs premium plans to highlight which combinations were most lucrative or underperforming.
 
 - **Upselling and cross-selling strategies:** Found opportunities to offer premium plans or value-added services (like tech support) to under-served groups, boosting both revenue and customer satisfaction.
+
+The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+
+Targed SQL queries regarding various business questions can be found here [link].
+
+An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
   
