@@ -20,6 +20,8 @@ To address these challenges, customer usage and billing data was analyzed using 
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [[link](https://github.com/Estapearl/Telecom-SQL-Customer-Segmentation./blob/main/Nexas_EDA_data_transformation.sql)].
 
+The SQL queries used to inspect and clean the data for this analysis can be found [here](Nexas_EDA_data_transformation.sql).
+
 Targed SQL queries regarding various business questions can be found here [link].
 
 An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
