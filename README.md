@@ -83,33 +83,30 @@ NexaSat’s profitability rests heavily on Medium and High CLV customers, partic
 
 ## Recommendations
 
-1. **Strengthen Customer Retention Efforts**
+- **Strengthen Customer Retention Efforts**
+  With 2,771 churned customers (39% of total), reducing churn should be a top priority. NexaSat should explore retention strategies such as loyalty rewards, proactive
+  service support, and targeted offers for at-risk customers (especially Low CLV groups). Even modest improvements in retention could protect millions in recurring revenue.
 
-With 2,771 churned customers (39% of total), reducing churn should be a top priority. NexaSat should explore retention strategies such as loyalty rewards, proactive service support, and targeted offers for at-risk customers (especially Low CLV groups). Even modest improvements in retention could protect millions in recurring revenue.
+-  **Focus on Medium CLV Customers for Growth**
+  The Medium CLV segment contributes the largest share of revenue (₦13.6M) while still showing upsell potential. By upgrading Medium CLV Basic plan users (188 customers) to   Premium, NexaSat could significantly boost ARPU and stabilize long-term value.
 
-2. **Focus on Medium CLV Customers for Growth**
+- **Expand Premium and Value-Added Services**
+  Premium plans account for the bulk of revenue (₦17.3M combined from Prepaid & Postpaid Premium). NexaSat should continue pushing Premium bundles and add-on services (Tech   Support, Multi-Line offers) to increase stickiness and wallet share, particularly among Low CLV customers who lack these services.
 
-The Medium CLV segment contributes the largest share of revenue (₦13.6M) while still showing upsell potential. By upgrading Medium CLV Basic plan users (188 customers) to Premium, NexaSat could significantly boost ARPU and stabilize long-term value.
+- **Cross-Sell to Underserved Segments**
+  There are 412 Low CLV customers without Tech Support or Multiple Lines, and 137 senior citizens without dependents or Tech Support. Offering simplified “care +
+  convenience” bundles tailored to these groups could reduce churn and modestly lift revenue.
 
-3. **Expand Premium and Value-Added Services**
+- **Optimize Prepaid Basic Plans**
+  With only ₦327K in total revenue from Prepaid Basic plans, these customers are low contributors. NexaSat should consider repackaging or phasing out weak-performing plans,   and redirecting customers towards entry-level Premium or bundled options.
 
-Premium plans account for the bulk of revenue (₦17.3M combined from Prepaid & Postpaid Premium). NexaSat should continue pushing Premium bundles and add-on services (Tech Support, Multi-Line offers) to increase stickiness and wallet share, particularly among Low CLV customers who lack these services.
+- **Data-Driven Marketing Strategy**
 
-4. **Cross-Sell to Underserved Segments**
+a.  NexaSat can leverage this segmentation analysis to personalize campaigns:
 
-There are 412 Low CLV customers without Tech Support or Multiple Lines, and 137 senior citizens without dependents or Tech Support. Offering simplified “care + convenience” bundles tailored to these groups could reduce churn and modestly lift revenue.
+b. Upsell Premium plans to Medium CLV customers.
 
-5. **Optimize Prepaid Basic Plans**
+c.  Cross-sell add-ons to Low CLV customers.
 
-With only ₦327K in total revenue from Prepaid Basic plans, these customers are low contributors. NexaSat should consider repackaging or phasing out weak-performing plans, and redirecting customers towards entry-level Premium or bundled options.
-
-6. **Data-Driven Marketing Strategy**
-
-- NexaSat can leverage this segmentation analysis to personalize campaigns:
-
-- Upsell Premium plans to Medium CLV customers.
-
-- Cross-sell add-ons to Low CLV customers.
-
-- Retain High CLV customers with exclusive offers.
+d.  Retain High CLV customers with exclusive offers.
   
