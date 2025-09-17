@@ -102,11 +102,11 @@ NexaSat’s profitability rests heavily on Medium and High CLV customers, partic
 
 - **Data-Driven Marketing Strategy**
 
-a.  NexaSat can leverage this segmentation analysis to personalize campaigns:
+  a.  NexaSat can leverage this segmentation analysis to personalize campaigns:
 
-b. Upsell Premium plans to Medium CLV customers.
+  b. Upsell Premium plans to Medium CLV customers.
 
-c.  Cross-sell add-ons to Low CLV customers.
+  c.  Cross-sell add-ons to Low CLV customers.
 
-d.  Retain High CLV customers with exclusive offers.
+  d.  Retain High CLV customers with exclusive offers.
   
