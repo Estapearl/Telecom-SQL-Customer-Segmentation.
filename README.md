@@ -1,5 +1,5 @@
 # Driving Business Insights from Customer Data
-## SQL Analytics for Understanding Revenue, ARPU, and Churn in Telecom
+## SQL Analytics for Customer Lifetime Value Segmentation and Cross-Selling Opportunities in Telecom
 
 ## Project Background
 
