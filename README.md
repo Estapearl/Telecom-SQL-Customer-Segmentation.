@@ -1,4 +1,5 @@
-# Telecom-SQL-Customer-Segmentation.
+# Driving Business Insights from Customer Data
+## SQL Analytics for Understanding Revenue, ARPU, and Churn in Telecom
 
 ## Project Background
 
