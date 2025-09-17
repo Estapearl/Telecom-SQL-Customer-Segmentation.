@@ -66,18 +66,18 @@ The analysis highlights three critical themes:
 
 ### Profitability (ARPU)
 
-Overall ARPU: ₦4,561.35
+- **Overall ARPU:** ₦4,561.35
 
-By CLV Segment: High CLV (₦14,552.76), Medium CLV (₦5,253.73), Low CLV (₦985.22).
+- **By CLV Segment:** High CLV (₦14,552.76), Medium CLV (₦5,253.73), Low CLV (₦985.22).
 
-Cross-Selling Opportunities
+### Cross-Selling Opportunities
 
-Low CLV without add-ons: 412 customers could be targeted for Tech Support / Multiple Lines.
+- **Low CLV without add-ons:** 412 customers could be targeted for Tech Support / Multiple Lines.
 
-Medium CLV on Basic Plan: 188 customers generating ₦955,709 could be upgraded to Premium.
+- **Medium CLV on Basic Plan:** 188 customers generating ₦955,709 could be upgraded to Premium.
 
-Senior Citizens without support: 137 customers lack dependents and Tech Support, representing a niche upsell group.
+- **Senior Citizens without support:** 137 customers lack dependents and Tech Support, representing a niche upsell group.
 
-📌 Takeaway for Stakeholders:
+### Takeaway for Stakeholders:
 NexaSat’s profitability rests heavily on Medium and High CLV customers, particularly those on Premium Postpaid plans. However, nearly 40% of the original base has already churned, underscoring the need for proactive retention. At the same time, upselling low- and medium-value groups represents a clear path to sustainable revenue growth.
   
