@@ -5,7 +5,7 @@
 
 NexaSat, a mid-sized telecom provider, delivers **mobile voice and data services through prepaid and postpaid plans**. The company was facing growing challenges in retaining customers and maximizing revenue from its existing user base. **High churn rates, unclear customer value segments, and limited visibility into cross-sell and upsell opportunities were slowing business growth**.
 
-To address these challenges, customer usage and billing data was analyzed using SQL to uncover key behavioral patterns. The analysis focused on segmenting customers by **Customer Lifetime Value (CLV), identifying revenue drivers, and surfacing opportunities for churn reduction through**.
+To address these challenges, customer usage and billing data was analyzed using SQL to uncover key behavioral patterns. The analysis focused on segmenting customers by **Customer Lifetime Value (CLV), identifying revenue drivers and surfacing opportunities for churn reduction**.
 
 ### Insights and recommendations were provided in the following areas:
 
